@@ -16,6 +16,7 @@
 
     <modules>
         <module>tokoku-discovery-service</module>
+        <module>tokoku-user-service</module>
     </modules>
 
     <properties>
